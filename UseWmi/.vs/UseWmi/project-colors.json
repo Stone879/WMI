@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f20fd114-8fcd-4fb5-9e1f-1ff023988e01": {
+      "ProjectGuid": "f20fd114-8fcd-4fb5-9e1f-1ff023988e01",
+      "DisplayName": "UseWmi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
